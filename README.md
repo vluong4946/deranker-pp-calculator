@@ -1,7 +1,7 @@
 # deranker-pp-calculator
 Calculator to see how much pp you will have if your NF/SO scores didn't have NF and/or SO. 
 
-**Caveats**: idk the pp multiplier for SO or NFSO, just kinda guessed based on empirical values. 
+**Caveats**: idk the pp multiplier for SO or NFSO, just kinda guessed based on empirical values. I guessed 0.95 and 0.85, respectively. 
 
 **Instructions**: Download code, input your api key and user id at the top, run it. 
 
